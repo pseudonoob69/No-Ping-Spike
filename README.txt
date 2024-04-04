@@ -35,3 +35,4 @@ If you encounter any issues or need further assistance, feel free to [open an is
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or bug fixes, please submit a pull request.
+ 
