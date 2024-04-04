@@ -31,7 +31,7 @@ If you need to reconnect to other Wi-Fi networks or undo the changes made by the
 - Administrative privileges (required for network adjustments)
 
 ## Troubleshooting
-If you encounter any issues or need further assistance, feel free to [open an issue](https://github.com/your-username/your-repo-name/issues) in this repository.
+If you encounter any issues or need further assistance, feel free to [open an issue](https://github.com/pseudonoob69/No-Ping-Spike/issues) in this repository.
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or bug fixes, please submit a pull request.
