@@ -1,5 +1,7 @@
 # Windows Ping Spike Fix
 
+Your search for a solution to ping fluctuations ends here. I've exhausted various attempts, from switching ISPs to replacing routers, only to discover that the solution could be as simple as this. I trust this tool will prove to be both user-friendly and effective in resolving your network latency concerns.
+
 ## Description
 This command-line utility aims to address the common issue of unstable ping responses on Windows systems. If you've experienced sudden spikes in ping latency (from 20ms to 150ms or even 999ms), this tool might help stabilize your network connection.
 
